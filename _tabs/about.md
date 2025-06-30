@@ -1,15 +1,48 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 1
+layout: page
+title: About
+permalink: /about/
+order: 2
 ---
 
-<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip } -->
+📍 Vancouver, Canada
 
-# Hey there 👋
-Happy you're here! <br> 
-If you enjoy travelling, a cup of matcha, reading, or want to learn a new sport, we'll definitely get along well.
+In May, I graduated from Engineering Physics at UBC - a fulfilling (and at times gruelling!) five-year journey filled with late-night study sessions, spontaneous trips, and countless problem sets. 📚🚞
+<br>
 
+So… what’s next⁉️
+<br>
 
-> 
+I’m now exploring opportunities that align with my values: creativity, impact, and human-centered design in the tech space. My degree was as technical as it gets 📐, full of physics equations and algorithms, but I’ve also been drawn to design 🎨. Whether i’m sketching and painting in my free time or admiring thoughtfully crafted products (both digital and physical), I’m inspired to build things that make people’s lives better. 
+<br>
+
+Last Christmas, I bought a 3D printer 🖨️ just to experiment and create for fun. Over the past year, I collaborated with five others to build Walnut 🌰, an AI-powered note-taking app designed to help people capture their thoughts and lectures seamlessly.
+<br>
+
+Beyond tech and design, I’m deeply curious about how people think and about life in general 💭. I’ve explored psychology, philosophy, and Buddhism, which once led me to a week-long silent meditation retreat in Bali 🧘. It was a tranquil, transformative experience I’d recommend to anyone. 
+<br>
+
+From once asking “what’s the meaning of life?” I now believe in making meaning - through purpose-driven work, human connection, and being present in the moment. 
+
+## Skills
+
+- **Frontend Development**: HTML, CSS, JavaScript, React
+- **Design**: UI/UX Design, Figma, Adobe Creative Suite
+- **Backend**: [Your backend skills]
+- **Other**: [Additional skills]
+
+## Experience
+
+[Add your work experience here]
+
+## Education
+
+[Add your education background here]
+
+## Interests
+
+When I'm not coding, you can find me [your interests/hobbies].
+
+## Get in Touch
+
+Feel free to reach out to me at [jesslynariyadev@gmail.com](mailto:jesslynariyadev@gmail.com) or connect with me on [GitHub](https://github.com/jess-ariya). 

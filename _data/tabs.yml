@@ -1,15 +1,34 @@
-- title: About
-  icon: fas fa-user
+# Tabs configuration for Chirpy theme
+# This file defines the navigation tabs in the sidebar
+
+- name: About
   url: /about/
+  order: 1
 
-- title: Projects
-  icon: fas fa-project-diagram
-  url: /projects/
-
-- title: Posts
-  icon: fas fa-pencil-alt
-  url: /posts/
-
-- title: Resume
-  icon: fas fa-file-alt
+- name: Resume
   url: /resume/
+  order: 2
+
+- name: Walnut
+  url: /projects/walnut/
+  order: 3
+
+- name: Seedbot
+  url: /projects/seedbot/
+  order: 4
+
+- name: SolarChapter
+  url: /projects/solarchapter/
+  order: 5
+
+- name: Traffibot
+  url: /projects/traffibot/
+  order: 6
+
+- name: SolarTab
+  url: /projects/solartab/
+  order: 7
+
+- name: EasyMath
+  url: /projects/easymath/
+  order: 8 
