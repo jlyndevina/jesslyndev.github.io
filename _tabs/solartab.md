@@ -40,7 +40,7 @@ SolarTab is a rugged, solar-powered tablet designed to help close that gap. Buil
 - **🖊 Battery-free stylus**: Uses electromagnetic induction, no charging needed
 - **⚡ Durable & heat-resistant**: Survives rough conditions and up to 50°C temperatures
 - **🧠 Pre-loaded with educational tools**: Runs Linux OS with offline-ready learning apps
-- **🎧 Essential ports**: USB-C, USB-A, headphone jack—just the basics, done right
+- **🎧 Essential ports**: USB-C, USB-A, headphone jack (the essential basics)
 
 ---
 

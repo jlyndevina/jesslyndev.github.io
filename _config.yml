@@ -14,9 +14,9 @@ timezone: America/Vancouver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jesslyn's Portfolio # the main title
+title: Jesslyn's Web  # the main title
 
-tagline: hi :) # it will display as the subtitle
+tagline: :) # it will display as the subtitle
 
 url: 'https://jess-ariya.github.io'
 
@@ -38,7 +38,6 @@ social:
   email: jesslynariyadev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -100,12 +99,26 @@ cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/about/pink_bg.JPG
 
+# Favicon configuration
+favicon:
+  icon: /assets/img/favicon/favicon.ico
+  apple_touch_icon: /assets/img/favicon/apple-touch-icon.png
+  manifest: /assets/img/favicon/site.webmanifest
+
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
+
+# Search settings
+search_provider: # [lunr | algolia]
+
+# Disable search functionality
+search: false
+search_provider: false
+search_enabled: false
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.

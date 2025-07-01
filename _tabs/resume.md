@@ -6,7 +6,6 @@ order: 3
 ---
 
 <div class="project-document">
-  <p>View my resume below or download it for your convenience:</p>
   <iframe 
     src="/assets/resume/resume.pdf" 
     width="100%" 
