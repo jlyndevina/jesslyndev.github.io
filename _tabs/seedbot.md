@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Seedbot Project
+title: SeedBot 🌱
 permalink: /projects/seedbot/
 order: 5
 ---
-
-# Seedbot 🤖
 
 ## The Problem
 

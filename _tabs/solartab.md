@@ -1,78 +1,59 @@
 ---
 layout: page
-title: SolarTab - Innovent Project
+title: SolarTab 💡
 permalink: /projects/solartab/
 order: 8
 ---
 
-# SolarTab - Innovent 💡
+# Powering Digital Learning, Anywhere 🌍
 
-## Project Overview
+Hardware Concept | Designed for Rural Education | Solar-Powered & Low-Cost
 
-Innovation project from Notion showcasing creative solutions and design thinking approach.
+In a world rapidly transformed by technology, millions of students in rural communities are still left behind—without access to the tools they need to learn, connect, and thrive in the digital age.
 
-## Project Details
+SolarTab is a rugged, solar-powered tablet designed to help close that gap. Built for resilience, affordability, and accessibility, it's a learning companion that works even where electricity and internet access are limited.
 
-[Add your project description here]
-
-## Design Thinking Process
-
-[Describe your design thinking methodology]
-
-## Innovation Approach
-
-[Detail your innovation strategy and creative process]
-
-## Notion Documentation
+---
 
 <div class="project-document">
-  <h3>Project Documentation</h3>
-  <p>View the complete project documentation on Notion:</p>
-  <a href="YOUR_NOTION_PAGE_URL" class="external-link" target="_blank">
-    📝 View on Notion
-  </a>
+  <h3>More here</h3>
+  <iframe 
+    src="/assets/img/projects/solartab/SolarTab_Slides.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border: 1px solid #ddd; border-radius: 8px;">
+    <p>Your browser does not support PDFs. <a href="/assets/img/projects/solartab/SolarTab_Slides.pdf" target="_blank">Download the PDF</a> to view it.</p>
+  </iframe>
+  <div style="margin-top: 16px;">
+    <a href="/assets/img/projects/solartab/SolarTab_Slides.pdf" class="download-link" target="_blank">
+      📄 Download Presentation Slides (PDF)
+    </a>
+  </div>
 </div>
 
-## Creative Solutions
 
-[Describe your creative solutions and innovative approaches]
+## 💡 Key Features
 
-## Problem Statement
+- **🔋 Solar-powered charging**: Foldable panels double surface area for faster, off-grid charging
+- **📖 Paper-like display**: Low-power, eye-friendly screen for long reading sessions
+- **⌨️ Built-in keyboard**: Encourages typing, coding, and note-taking skills
+- **🖊 Battery-free stylus**: Uses electromagnetic induction, no charging needed
+- **⚡ Durable & heat-resistant**: Survives rough conditions and up to 50°C temperatures
+- **🧠 Pre-loaded with educational tools**: Runs Linux OS with offline-ready learning apps
+- **🎧 Essential ports**: USB-C, USB-A, headphone jack—just the basics, done right
 
-[Detail the problem you were trying to solve]
+---
 
-## Solution Design
+## 🎯 Designed For Impact
 
-[Explain your solution design and approach]
+SolarTab was built with a single goal in mind: to bring quality digital education to underserved students in rural regions.
 
-## Technologies Used
+By giving students a durable, low-maintenance, and thoughtfully designed learning device, SolarTab opens the door to digital literacy, coding, and knowledge-sharing—one sun-charged day at a time. ☀️
 
-- [List your technologies]
-- [Design tools]
-- [Innovation frameworks]
-- [Collaboration tools]
+---
 
-## Key Features
+This project is a concept-idea project my team and I came up with in 2 days for an Innovation event (Innovent 2023) hosted by Biztech UBC.
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-## Innovation Impact
-
-[Describe the innovative impact of your project]
-
-## Collaboration & Teamwork
-
-[Detail your collaboration process and team dynamics]
-
-## Future Possibilities
-
-[Discuss future possibilities and potential developments]
-
-## Results & Impact
-
-[Describe the outcomes and impact of your project]
 
 ---
 

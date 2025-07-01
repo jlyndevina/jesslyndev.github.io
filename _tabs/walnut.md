@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Walnut Project
+title: Walnut 🌰
 permalink: /projects/walnut/
 order: 4
 ---
 
-# Walnut 🌰
+Redifing the note-taking experience for students 📚
 
 <div class="project-hero-image">
   <img src="/assets/img/projects/walnut/WALNUT_slogan.jpg" alt="Walnut Slogan" class="project-image">

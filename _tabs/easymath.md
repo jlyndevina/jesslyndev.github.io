@@ -1,26 +1,13 @@
 ---
 layout: page
-title: EasyMath (HKU) Project
+title: EasyMath ➗
 permalink: /projects/easymath/
 order: 9
 ---
 
-# EasyMath (HKU) 🧮
-
-## Project Overview
-
-Educational technology project from HKU featuring video demonstration of mathematical learning tools and interfaces.
-
-## Project Details
-
-[Add your project description here]
-
-## Educational Technology Approach
-
-[Describe your educational technology methodology]
+A lil project for learning the basics of Figma I did during my exchange in HKU as a team of 4.
 
 ## Video Demo
-
 <div class="project-video">
   <iframe 
     width="100%" 
@@ -33,50 +20,7 @@ Educational technology project from HKU featuring video demonstration of mathema
   </iframe>
 </div>
 
-## Learning Interface Design
 
-[Detail your learning interface design process]
-
-## User Experience for Education
-
-[Describe the UX design specifically for educational purposes]
-
-## Mathematical Learning Tools
-
-[Explain the mathematical tools and features developed]
-
-## Technologies Used
-
-- [List your technologies]
-- [Educational software]
-- [UI/UX tools]
-- [Programming languages]
-
-## Key Features
-
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-## Educational Impact
-
-[Describe the educational impact and learning outcomes]
-
-## User Testing with Students
-
-[Detail user testing process with student participants]
-
-## HKU Project Context
-
-[Explain the project context within HKU]
-
-## Future Educational Applications
-
-[Discuss potential future applications in education]
-
-## Results & Impact
-
-[Describe the outcomes and impact of your project]
 
 ---
 

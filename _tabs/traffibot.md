@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traffibot Project
+title: Traffibot 🚙
 permalink: /projects/traffibot/
 order: 7
 ---

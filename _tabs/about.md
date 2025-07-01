@@ -24,25 +24,7 @@ Beyond tech and design, I’m deeply curious about how people think and about li
 
 From once asking “what’s the meaning of life?” I now believe in making meaning - through purpose-driven work, human connection, and being present in the moment. 
 
-## Skills
-
-- **Frontend Development**: HTML, CSS, JavaScript, React
-- **Design**: UI/UX Design, Figma, Adobe Creative Suite
-- **Backend**: [Your backend skills]
-- **Other**: [Additional skills]
-
-## Experience
-
-[Add your work experience here]
-
-## Education
-
-[Add your education background here]
-
-## Interests
-
-When I'm not coding, you can find me [your interests/hobbies].
 
 ## Get in Touch
 
-Feel free to reach out to me at [jesslynariyadev@gmail.com](mailto:jesslynariyadev@gmail.com) or connect with me on [GitHub](https://github.com/jess-ariya). 
+Feel free to reach out to me at [jesslynariyadev@gmail.com](mailto:jesslynariyadev@gmail.com) 

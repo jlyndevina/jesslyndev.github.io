@@ -1,70 +1,32 @@
 ---
 layout: page
-title: SolarChapter Project
+title: SolarChapter ☀️
 permalink: /projects/solarchapter/
 order: 6
 ---
 
-# SolarChapter ☀️
 
-## Project Overview
-
-Solar energy project featuring relevant slides and MATLAB simulation demonstrating technical analysis and modeling.
+I was part of the Project Development team where I contributed in leading the design of a solar-powered pump system for Tasinifu Village, Indonesia.
 
 ## Project Details
 
-[Add your project description here]
-
-## Technical Analysis
-
-[Describe your technical approach and analysis methods]
-
-## MATLAB Simulation
-
-<div class="project-video">
+<div class="project-document">
+  <h3>More here :) </h3>
+  <p>View the PDF</p>
   <iframe 
+    src="/assets/img/projects/sc/SC_pdf.pdf" 
     width="100%" 
-    height="400" 
-    src="https://www.youtube.com/embed/YOUR_MATLAB_VIDEO_ID" 
-    title="SolarChapter MATLAB Simulation" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
+    height="600px" 
+    style="border: 1px solid #ddd; border-radius: 8px;">
+    <p>Your browser does not support PDFs. <a href="/assets/img/projects/sc/SC_pdf.pdf" target="_blank">Download the PDF</a> to view it.</p>
   </iframe>
+  <div style="margin-top: 16px;">
+    <a href="/assets/img/projects/sc/SC_pdf.pdf" class="download-link" target="_blank">
+      📄 Download Full Report (PDF)
+    </a>
+  </div>
 </div>
 
-## Slides Presentation
-
-[Add your slides embed or link here]
-
-## Simulation Results
-
-[Describe your MATLAB simulation results and findings]
-
-## Data Analysis
-
-[Detail your data analysis process and key insights]
-
-## Technologies Used
-
-- MATLAB
-- [Other simulation tools]
-- [Data analysis tools]
-- [Visualization software]
-
-## Key Features
-
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-## Technical Challenges
-
-[Describe technical challenges faced and solutions implemented]
-
-## Results & Impact
-
-[Describe the outcomes and impact of your project]
 
 ---
 
